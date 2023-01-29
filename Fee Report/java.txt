@@ -1,0 +1,23 @@
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Pavanjkbjkbjk
+Father's Name: dvds
+RollNumber: 213214
+Email ID: 2142
+Contact Number: 848486
+Wants to take: CSE
+Wants to Join in School of Engineering and Applied Sciences
+Wants to be a Hosteller 
+Had chosen: ECE(2, 50, 000)
+Had chosen: 3 SHARE(1, 40, 000)
+ Total amount to be paid is 3.9 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Pa1
+Father's Name: xyz
+RollNumber: 123
+Email ID: abc@gmail.com
+Contact Number: 123456
+Wants to take: CSE
+Wants to be a Hosteller 
+Had chosen: CSE(2, 50, 000)
+Had chosen: 3 SHARE(1, 40, 000)
+ Total amount to be paid is 3.9 Lakhs 
